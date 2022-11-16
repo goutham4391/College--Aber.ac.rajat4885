@@ -1,0 +1,143 @@
+﻿# Aberystwyth University OPD
+# John Roberts; Research, Business, and Innovation
+# Updated April 2016
+
+# defining prefixes makes our document easier to read and maintain
+@prefix skos:		<http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:		<http://www.w3.org/2002/07/owl#> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix oo:		<http://purl.org/openorg/> .
+@prefix foaf:		<http://xmlns.com/foaf/0.1/> .
+@prefix vcard:		<http://www.w3.org/2006/vcard/ns#> .
+@prefix dcat:		<http://www.w3.org/ns/dcat#> .
+@prefix org:		<http://www.w3.org/ns/org#> .
+@prefix geo:		<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+@prefix lyou:		<http://purl.org/linkingyou/> .
+
+<> 
+	a oo:OrganizationProfileDocument ;
+	dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+	foaf:primaryTopic <https://www.aber.ac.uk/#org> .
+
+
+# Some information about the organisation, most of this is optional but the
+# prefLabel, logo and sameAs to the learning-provider URI is strongly encouraged.
+<https://www.aber.ac.uk/#org> 
+	a org:FormalOrganization ;
+    
+	skos:prefLabel "Aberystwyth University" ;
+	skos:hiddenLabel "AU" ;
+	vcard:sortLabel "Aberystwyth University" ;
+	foaf:phone <tel:+441970623111> ;
+	foaf:mbox <mailto:research@aber.ac.uk> ;
+	foaf:logo <https://www.aber.ac.uk/css/images/aber-uni-logo.svg> ;
+	foaf:homepage <https://www.aber.ac.uk/> ;
+	dcterms:location <https://en.wikipedia.org/wiki/Aberystwyth> ;
+	owl:sameAs <http://id.learning-provider.data.ac.uk/ukprn/10007856> ;
+	owl:sameAs <http://gtr.rcuk.ac.uk/organisation/E4757A6E-7326-472B-9979-B47D77A65446> ;
+	owl:sameAs <http://dbpedia.org/page/Aberystwyth_University> ;
+	foaf:isPrimaryTopicOf <https://en.wikipedia.org/wiki/Aberystwyth_University> ;
+	foaf:based_near <https://www.aber.ac.uk/#based_near_point> .
+	
+<https://www.aber.ac.uk/#based_near_point>
+	a <geo:Point> ;
+	geo:lat "52.417765" ;
+	geo:long "-4.065255" .
+
+<https://www.aber.ac.uk/en/research/equipment/equipment.csv>
+	oo:organization <https://www.aber.ac.uk/#org> ;
+	oo:corrections <mailto:jtr2@aber.ac.uk> ;
+	oo:contact <mailto:research@aber.ac.uk> ;
+	dcterms:subject <http://purl.org/openorg/theme/facilities> ;
+	dcterms:subject <http://purl.org/openorg/theme/equipment> ;
+	dcterms:conformsTo <http://equipment.data.ac.uk/uniquip> ;
+	dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> .
+	
+<https://pure.aber.ac.uk/ws/oai>
+	dcterms:conformsTo <http://www.openarchives.org/OAI/openarchivesprotocol.html> ;
+	dcterms:license <http://creativecommons.org/licenses/by-nc-nd/4.0/> ;
+	dcterms:subject <http://purl.org/openorg/theme/ResearchOutputs> ;
+    	oo:contact <mailto:openaccess@aber.ac.uk> ;
+	oo:corrections <mailto:awc@aber.ac.uk> ;
+	oo:organization <https://www.aber.ac.uk/#org> .	
+
+<https://www.aber.ac.uk/#org>
+	foaf:account <https://www.facebook.com/Aberystwyth.university> .
+
+<https://www.facebook.com/Aberystwyth.university>
+	a foaf:OnlineAccount ;
+    	foaf:accountName "Aberystwyth.university" ;
+    	foaf:accountServiceHomepage <https://www.facebook.com/> .
+
+<https://www.aber.ac.uk/#org> 
+	foaf:account <https://www.linkedin.com/edu/school?id=20300> .
+<https://www.linkedin.com/edu/school?id=20300> 
+	a foaf:OnlineAccount ;
+    	foaf:accountName "20300" ;
+    	foaf:accountServiceHomepage <https://www.linkedin.com/> .
+
+<https://www.aber.ac.uk/#org> 
+	foaf:account <https://www.youtube.com/user/aberystwythuni> .
+<https://www.youtube.com/user/aberystwythuni> 
+	a foaf:OnlineAccount ;
+    	foaf:accountName "aberystwythuni" ;
+    	foaf:accountServiceHomepage <https://www.youtube.com/> .
+
+<https://www.aber.ac.uk/#org>
+	foaf:account <https://twitter.com/Prifysgol_Aber> .
+<https://twitter.com/Prifysgol_Aber> 
+	a foaf:OnlineAccount ;
+    	foaf:accountName "Prifysgol_Aber" ;
+    	foaf:accountServiceHomepage <https://twitter.com/> .
+
+<https://www.aber.ac.uk/#org> 
+	foaf:account <https://twitter.com/AberUni> .
+<https://twitter.com/AberUni> 
+	a foaf:OnlineAccount ;
+    	foaf:accountName "AberUni" ;
+    	foaf:accountServiceHomepage <https://twitter.com/> .
+
+<https://www.aber.ac.uk/#org>
+	lyou:events <https://www.aber.ac.uk/en/events> ;
+	lyou:business <https://www.aber.ac.uk/en/rbi/business> ;
+	lyou:depts <https://www.aber.ac.uk/en/departments> ;
+	lyou:about <https://www.aber.ac.uk/en/university> ;
+	lyou:search <https://www.aber.ac.uk/en/search> ;
+	lyou:news <https://www.aber.ac.uk/en/news> ;
+	lyou:jobs <https://www.aber.ac.uk/en/hr/jobs> ;
+	lyou:contact <https://www.aber.ac.uk/en/directory> ;
+	lyou:research <https://www.aber.ac.uk/en/research> ;
+	lyou:legal-ethics <https://www.aber.ac.uk/en/research/good-practice/research-ethics/> ;
+	lyou:conference-facilities <https://www.aber.ac.uk/en/visitors/conferences-meetings-events> ;
+	lyou:public-lectures <https://www.aber.ac.uk/en/events/lectures> ;
+	lyou:business-incubation <https://www.aber.ac.uk/en/rbi/business/services/business-start-up> ;
+	lyou:business-ktp <https://www.aber.ac.uk/en/rbi/business/services/initiatives/ktp> ;
+	lyou:courses <https://courses.aber.ac.uk> ;
+	lyou:undergraduate <https://www.aber.ac.uk/en/undergrad> ;
+	lyou:undergraduate-prospectus <https://www.aber.ac.uk/en/prospectus/> ;
+	lyou:international-students <https://www.aber.ac.uk/en/international> ;
+	lyou:about-leader <https://www.aber.ac.uk/en/vc-office/introduction/welcome/biography/> ;
+	lyou:about-executive <https://www.aber.ac.uk/en/governance> ;	
+	lyou:postgraduate <https://www.aber.ac.uk/en/postgrad> ;
+	lyou:postgraduate-taught-courses <https://www.aber.ac.uk/en/postgrad/courses> ;
+	lyou:postgraduate-taught-prospectus <https://www.aber.ac.uk/en/postgrad/prospectus/> ;
+	lyou:opendays <https://www.aber.ac.uk/en/undergrad/visit-us/open-day/> ;
+	lyou:events-graduation <https://www.aber.ac.uk/en/graduation/> ;
+	lyou:about-parents <https://www.aber.ac.uk/en/media/departmental/openday/pdf/s-42141/Parent-Open-Day-guide.pdf> ;
+	lyou:about-strategy <https://www.aber.ac.uk/en/strategicplan> ;
+	lyou:legal-data-protection <https://www.aber.ac.uk/en/infocompliance/dp> ;
+	lyou:legal-foi <https://www.aber.ac.uk/en/infocompliance/foi> ;
+	lyou:legal-ict <https://www.aber.ac.uk/en/is/about/regulations> ;
+	lyou:ict-support <https://www.aber.ac.uk/en/is/help/> ;
+	lyou:press <https://www.aber.ac.uk/en/news/communications-and-public-affairs/> ;
+	lyou:legal-environment <https://www.aber.ac.uk/en/sustainability/sutainability-policies/> ;
+	lyou:legal-equality <https://www.aber.ac.uk/en/equality/equality-policy/> ;
+	lyou:legal-website <https://www.aber.ac.uk/en/terms-and-conditions/> ;
+	lyou:research-data-catalogue <https://www.aber.ac.uk/en/research/data-catalogue/> ;
+	lyou:research-data-management-planning <https://www.aber.ac.uk/en/research/good-practice/data-management/> ;
+	lyou:research-data-repository <https://www.aber.ac.uk/en/research/good-practice/data-management/how/storage/> ;
+	lyou:research-data-policy <https://www.aber.ac.uk/en/media/departmental/researchoffice/rdm/Research-Data-Management-Policy.pdf> ;
+	lyou:research-funders-policies <https://www.aber.ac.uk/en/research/good-practice/data-management/who/> ;
+	lyou:research-publications-repository <http://cadair.aber.ac.uk/dspace/> ;
+	lyou:legal-regulations <https://www.aber.ac.uk/en/regulations/> .

@@ -1,0 +1,1573 @@
+.slideshow-layers .one .image {
+	background-image: url("../img/content/hp-slider/bg-img/open-days-3-562.jpg")
+}
+.slideshow-layers .two .image {
+	background-image: url("../img/content/hp-slider/bg-img/discover-562.jpg")
+}
+.slideshow-layers .three .image {
+	background-image: url("../img/content/hp-slider/bg-img/hesa-562.jpg")
+}
+.slideshow-layers .four .image {
+	background-image: url("../img/content/hp-slider/bg-img/nss-2-562.jpg")
+}
+.slideshow-layers .five .image {
+	background-image: url("../img/content/hp-slider/bg-img/online-open-day-4-562.jpg")
+}
+.slideshow-layers .six .image {
+	background-image: url("../img/content/hp-slider/bg-img/research-562.jpg")
+}
+.slideshow-layers .seven .image {
+	background-image: url("../img/content/hp-slider/bg-img/diversity-2-562.jpg")
+}
+.slideshow-layers .eight .image {
+	background-image: url("../img/content/hp-slider/bg-img/not-too-late-562.jpg")
+}
+.slideshow-layers .nine .image {
+	background-image: url("../img/content/hp-slider/bg-img/tef-562.jpg")
+}
+.slideshow-layers .ten .image {
+	background-image: url("../img/content/hp-slider/bg-img/graduation-562.jpg")
+}
+.slideshow-layers .eleven .image {
+	background-image: url("../img/content/hp-slider/bg-img/bww-562.jpg")
+}
+.slideshow-layers .twelve .image {
+	background-image: url("../img/content/hp-slider/bg-img/good-university-guide-562.jpg")
+}
+.slideshow-layers .thirteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/resources-hub-562.jpg")
+}
+.slideshow-layers .fourteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/scholarships-562.jpg")
+}
+.slideshow-layers .fifteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/visiting-days-562.jpg")
+}
+.slideshow-layers .sixteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/student-experience-562.jpg")
+}
+.slideshow-layers .seventeen .image {
+	background-image: url("../img/content/hp-slider/bg-img/good-university-guide-2020-562.jpg")
+}
+.slideshow-layers .eighteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/pantycelyn-2-562.jpg")
+}
+.slideshow-layers .nineteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/clearing-562.jpg")
+}
+.slideshow-layers .twenty .image {
+	background-image: url("../img/content/hp-slider/bg-img/nss-20-562.jpg")
+}
+.slideshow-layers .twentyone .image {
+	background-image: url("../img/content/hp-slider/bg-img/campus-tours-562.jpg")
+}
+.slideshow-layers .twentytwo .image {
+	background-image: url("../img/content/hp-slider/bg-img/mba-562.jpg")
+}
+.slideshow-layers .twentythree .image {
+	background-image: url("../img/content/hp-slider/bg-img/vet-562.jpg")
+}
+.slideshow-layers .twentyfour .image {
+	background-image: url("../img/content/hp-slider/bg-img/entrance-scholarships-562.jpg")
+}
+.slideshow-layers .twentyfive .image {
+	background-image: url("../img/content/hp-slider/bg-img/bsw-562.jpg")
+}
+.slideshow-layers .twentysix .image {
+	background-image: url("../img/content/hp-slider/bg-img/psw-562.jpg")
+}
+.slideshow-layers .twentyseven .image {
+	background-image: url("../img/content/hp-slider/bg-img/research-2-562.jpg")
+}
+.slideshow-layers .twentyeight .image {
+	background-image: url("../img/content/hp-slider/bg-img/clearing-visits-562.jpg")
+}
+.slideshow-layers .twentynine .image {
+	background-image: url("../img/content/hp-slider/bg-img/accom-562.jpg")
+}
+.slideshow-layers .thirtyone .image {
+	background-image: url("../img/content/hp-slider/bg-img/vet-od-562.jpg")
+}
+.slideshow-layers .thirtytwo .image {
+	background-image: url("../img/content/hp-slider/bg-img/fy-562.jpg")
+}
+.slideshow-layers .thirtythree .image {
+	background-image: url("../img/content/hp-slider/bg-img/welcome-562.jpg")
+}
+.slideshow-layers .three .top-right div {
+	width: 40%
+}
+/*.slideshow-layers .four .top-right div {
+	width: 40%
+}*/
+.slideshow-layers .five .bottom-right div {
+	width: 40%
+}
+.slideshow-layers .six .top-right div {
+	width: 40%
+}
+.slideshow-layers .seven .top-left div {
+	width: 60%
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2 / 1),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 192dpi),
+only screen and (min-resolution: 2dppx) {
+	.slideshow-layers .one .image {
+		background-image: url("../img/content/hp-slider/bg-img/open-days-3-562%402x.jpg")
+	}
+	.slideshow-layers .two .image {
+		background-image: url("../img/content/hp-slider/bg-img/discover-562%402x.jpg")
+	}
+	.slideshow-layers .three .image {
+		background-image: url("../img/content/hp-slider/bg-img/hesa-562%402x.jpg")
+	}
+	.slideshow-layers .four .image {
+		background-image: url("../img/content/hp-slider/bg-img/nss-2-562%402x.jpg")
+	}
+	.slideshow-layers .five .image {
+		background-image: url("../img/content/hp-slider/bg-img/online-open-day-4-562%402x.jpg")
+	}
+	.slideshow-layers .six .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-562%402x.jpg")
+	}
+	.slideshow-layers .seven .image {
+		background-image: url("../img/content/hp-slider/bg-img/diversity-2-562%402x.jpg")
+	}
+	.slideshow-layers .eight .image {
+		background-image: url("../img/content/hp-slider/bg-img/not-too-late-562%402x.jpg")
+	}
+	.slideshow-layers .nine .image {
+		background-image: url("../img/content/hp-slider/bg-img/tef-562%402x.jpg")
+	}
+	.slideshow-layers .ten .image {
+		background-image: url("../img/content/hp-slider/bg-img/graduation-562%402x.jpg")
+	}
+	.slideshow-layers .eleven .image {
+		background-image: url("../img/content/hp-slider/bg-img/bww-562%402x.jpg")
+	}
+	.slideshow-layers .twelve .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-562%402x.jpg")
+	}
+	.slideshow-layers .thirteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/resources-hub-562%402x.jpg")
+	}
+	.slideshow-layers .fourteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/scholarships-562%402x.jpg")
+	}
+	.slideshow-layers .fifteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/visiting-days-562%402x.jpg")
+	}
+	.slideshow-layers .sixteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/student-experience-562%402x.jpg")
+	}
+	.slideshow-layers .seventeen .image {
+	background-image: url("../img/content/hp-slider/bg-img/good-university-guide-2020-562%402x.jpg")
+	}
+	.slideshow-layers .eighteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/pantycelyn-2-562%402x.jpg")
+	}
+	.slideshow-layers .nineteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/clearing-562%402x.jpg")
+	}
+	.slideshow-layers .twenty .image {
+	background-image: url("../img/content/hp-slider/bg-img/nss-20-562%402x.jpg")
+	}
+	.slideshow-layers .twentyone .image {
+	background-image: url("../img/content/hp-slider/bg-img/campus-tours-562%402x.jpg")
+	}
+	.slideshow-layers .twentytwo .image {
+	background-image: url("../img/content/hp-slider/bg-img/mba-562%402x.jpg")
+	}
+	.slideshow-layers .twentythree .image {
+	background-image: url("../img/content/hp-slider/bg-img/vet-562%402x.jpg")
+	}
+    .slideshow-layers .twentyfour .image {
+	background-image: url("../img/content/hp-slider/bg-img/entrance-scholarships-562%402x.jpg")
+	}
+    .slideshow-layers .twentyfive .image {
+	background-image: url("../img/content/hp-slider/bg-img/bsw-562%402x.jpg")
+	}
+    .slideshow-layers .twentysix .image {
+	background-image: url("../img/content/hp-slider/bg-img/psw-562%402x.jpg")
+	}
+	.slideshow-layers .twentyseven .image {
+background-image: url("../img/content/hp-slider/bg-img/research-2-562%402x.jpg")
+	}
+	.slideshow-layers .twentyeight .image {
+background-image: url("../img/content/hp-slider/bg-img/clearing-visits-562%402x.jpg")
+	}
+	.slideshow-layers .twentynine .image {
+background-image: url("../img/content/hp-slider/bg-img/accom-562%402x.jpg")
+	}
+	.slideshow-layers .thirtyone .image {
+background-image: url("../img/content/hp-slider/bg-img/vet-od-562%402x.jpg")
+	}
+	.slideshow-layers .thirtytwo .image {
+background-image: url("../img/content/hp-slider/bg-img/fy-562%402x.jpg")
+	}
+	.slideshow-layers .thirtythree .image {
+		background-image: url("../img/content/hp-slider/bg-img/welcome-562%402x.jpg")
+	}
+}
+@media only screen and (min-width: 580px) {
+	.slideshow-layers .one .image {
+		background-image: url("../img/content/hp-slider/bg-img/open-days-3-900.jpg")
+	}
+	.slideshow-layers .two .image {
+		background-image: url("../img/content/hp-slider/bg-img/discover-900.jpg")
+	}
+	.slideshow-layers .three .image {
+		background-image: url("../img/content/hp-slider/bg-img/hesa-900.jpg")
+	}
+	.slideshow-layers .four .image {
+		background-image: url("../img/content/hp-slider/bg-img/nss-3-900.jpg")
+	}
+	.slideshow-layers .five .image {
+		background-image: url("../img/content/hp-slider/bg-img/online-open-day-4a-900.jpg")
+	}
+	.slideshow-layers .six .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-900.jpg")
+	}
+	.slideshow-layers .seven .image {
+		background-image: url("../img/content/hp-slider/bg-img/diversity-2-900.jpg")
+	}
+	.slideshow-layers .eight .image {
+		background-image: url("../img/content/hp-slider/bg-img/not-too-late-900.jpg")
+	}
+	.slideshow-layers .nine .image {
+		background-image: url("../img/content/hp-slider/bg-img/tef-900.jpg")
+	}
+	.slideshow-layers .ten .image {
+		background-image: url("../img/content/hp-slider/bg-img/graduation-900.jpg")
+	}
+	.slideshow-layers .eleven .image {
+		background-image: url("../img/content/hp-slider/bg-img/bww-900.jpg")
+	}
+	.slideshow-layers .twelve .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-900.jpg")
+	}
+	.slideshow-layers .thirteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/resources-hub-900.jpg")
+	}
+	.slideshow-layers .fourteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/scholarships-900.jpg")
+	}
+	.slideshow-layers .fifteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/visiting-days-900.jpg")
+	}
+	.slideshow-layers .sixteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/student-experience-900.jpg")
+	}
+	.slideshow-layers .seventeen .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-2020-900.jpg")
+	}
+	.slideshow-layers .eighteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/pantycelyn-2-900.jpg")
+	}
+	.slideshow-layers .nineteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/clearing-900.jpg")
+	}
+    .slideshow-layers .twenty .image {
+	background-image: url("../img/content/hp-slider/bg-img/nss-20-900.jpg")
+	}
+    .slideshow-layers .twentyone .image {
+	background-image: url("../img/content/hp-slider/bg-img/campus-tours-900.jpg")
+	}
+    .slideshow-layers .twentytwo .image {
+	background-image: url("../img/content/hp-slider/bg-img/mba-900.jpg")
+	}
+    .slideshow-layers .twentythree .image {
+	background-image: url("../img/content/hp-slider/bg-img/vet-900.jpg")
+	}
+    .slideshow-layers .twentyfour .image {
+	background-image: url("../img/content/hp-slider/bg-img/entrance-scholarships-900.jpg")
+	}
+    .slideshow-layers .twentyfive .image {
+	background-image: url("../img/content/hp-slider/bg-img/bsw-900.jpg")
+	}
+    .slideshow-layers .twentysix .image {
+	background-image: url("../img/content/hp-slider/bg-img/psw-900.jpg")
+	}
+	.slideshow-layers .twentyseven .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-2-900.jpg")
+	}
+	.slideshow-layers .twentyeight .image {
+		background-image: url("../img/content/hp-slider/bg-img/clearing-visits-900.jpg")
+	}
+	.slideshow-layers .twentynine .image {
+		background-image: url("../img/content/hp-slider/bg-img/accom-900.jpg")
+	}
+	.slideshow-layers .thirtyone .image {
+		background-image: url("../img/content/hp-slider/bg-img/vet-od-900.jpg")
+	}
+	.slideshow-layers .thirtytwo .image {
+		background-image: url("../img/content/hp-slider/bg-img/fy-900.jpg")
+	}
+	.slideshow-layers .thirtythree .image {
+		background-image: url("../img/content/hp-slider/bg-img/welcome-900.jpg")
+	}
+	.slideshow-layers .three .logo.top-right div {
+		width: 19.79%
+	}
+	/*.slideshow-layers .four .logo.top-right div {
+		width: 19.79%;
+		right: 3%
+	}*/
+	/*.slideshow-layers .five .logo.bottom-right div {
+		width: 19.79%;
+		bottom: 45px
+	}*/
+	.slideshow-layers .six .logo.top-right div {
+		width: 19.79%
+	}
+	.slideshow-layers .seven .logo.top-left div {
+		width: 36%
+	}
+    /*.slideshow-layers .slide.two .caption p span {
+		color: #2B2B2B;
+	}*/
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 580px),
+only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 580px),
+only screen and (-o-min-device-pixel-ratio: 2 / 1) and (min-width: 580px),
+only screen and (min-device-pixel-ratio: 2) and (min-width: 580px),
+only screen and (min-resolution: 192dpi) and (min-width: 580px),
+only screen and (min-resolution: 2dppx) and (min-width: 580px) {
+	.slideshow-layers .one .image {
+		background-image: url("../img/content/hp-slider/bg-img/open-days-3-900%402x.jpg")
+	}
+	.slideshow-layers .two .image {
+		background-image: url("../img/content/hp-slider/bg-img/discover-900%402x.jpg")
+	}
+	.slideshow-layers .three .image {
+		background-image: url("../img/content/hp-slider/bg-img/hesa-900%402x.jpg")
+	}
+	.slideshow-layers .four .image {
+		background-image: url("../img/content/hp-slider/bg-img/nss-3-900%402x.jpg")
+	}
+	.slideshow-layers .five .image {
+		background-image: url("../img/content/hp-slider/bg-img/online-open-day-4a-900%402x.jpg")
+	}
+	.slideshow-layers .six .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-900%402x.jpg")
+	}
+	.slideshow-layers .seven .image {
+		background-image: url("../img/content/hp-slider/bg-img/diversity-2-900%402x.jpg")
+	}
+	.slideshow-layers .eight .image {
+		background-image: url("../img/content/hp-slider/bg-img/not-too-late-900%402x.jpg")
+	}
+	.slideshow-layers .nine .image {
+		background-image: url("../img/content/hp-slider/bg-img/tef-900%402x.jpg")
+	}
+	.slideshow-layers .ten .image {
+		background-image: url("../img/content/hp-slider/bg-img/graduation-900%402x.jpg")
+	}
+	.slideshow-layers .eleven .image {
+		background-image: url("../img/content/hp-slider/bg-img/bww-900%402x.jpg")
+	}
+	.slideshow-layers .twelve .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-900%402x.jpg")
+	}
+	.slideshow-layers .thirteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/resources-hub-900%402x.jpg")
+	}
+	.slideshow-layers .fourteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/scholarships-900%402x.jpg")
+	}
+	.slideshow-layers .fifteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/visiting-days-900%402x.jpg")
+	}
+	.slideshow-layers .sixteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/student-experience-900%402x.jpg")
+	}
+	.slideshow-layers .seventeen .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-2020-900%402x.jpg")
+	}
+	.slideshow-layers .eighteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/pantycelyn-2-900%402x.jpg")
+	}
+	.slideshow-layers .nineteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/clearing-900%402x.jpg")
+	}
+	.slideshow-layers .twenty .image {
+	background-image: url("../img/content/hp-slider/bg-img/nss-20-900%402x.jpg")
+	}
+	.slideshow-layers .twentyone .image {
+	background-image: url("../img/content/hp-slider/bg-img/campus-tours-900%402x.jpg")
+	}
+	.slideshow-layers .twentytwo .image {
+	background-image: url("../img/content/hp-slider/bg-img/mba-900%402x.jpg")
+	}
+    .slideshow-layers .twentythree .image {
+	background-image: url("../img/content/hp-slider/bg-img/vet-900%402x.jpg")
+	}
+    .slideshow-layers .twentyfour .image {
+	background-image: url("../img/content/hp-slider/bg-img/entrance-scholarships-900%402x.jpg")
+	}
+    .slideshow-layers .twentyfive .image {
+	background-image: url("../img/content/hp-slider/bg-img/bsw-900%402x.jpg")
+	}
+    .slideshow-layers .twentysix .image {
+	background-image: url("../img/content/hp-slider/bg-img/psw-900%402x.jpg")
+	}
+	.slideshow-layers .twentyseven .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-2-900%402x.jpg")
+	}
+	.slideshow-layers .twentyeight .image {
+		background-image: url("../img/content/hp-slider/bg-img/clearing-visits-900%402x.jpg")
+	}
+	.slideshow-layers .twentynine .image {
+		background-image: url("../img/content/hp-slider/bg-img/accom-900%402x.jpg")
+	}
+	.slideshow-layers .thirtyone .image {
+		background-image: url("../img/content/hp-slider/bg-img/vet-od-900%402x.jpg")
+	}
+	.slideshow-layers .thirtytwo .image {
+		background-image: url("../img/content/hp-slider/bg-img/fy-900%402x.jpg")
+	}
+	.slideshow-layers .thirtythree .image {
+		background-image: url("../img/content/hp-slider/bg-img/welcome-900%402x.jpg")
+	}
+}
+@media only screen and (min-width: 900px) {
+	.slideshow-layers .one .image {
+		background-image: url("../img/content/hp-slider/bg-img/open-days-3-1440.jpg")
+	}
+	.slideshow-layers .two .image {
+		background-image: url("../img/content/hp-slider/bg-img/discover-1440.jpg")
+	}
+	.slideshow-layers .three .image {
+		background-image: url("../img/content/hp-slider/bg-img/hesa-1440.jpg")
+	}
+	.slideshow-layers .four .image {
+		background-image: url("../img/content/hp-slider/bg-img/nss-3-1440.jpg")
+	}
+	.slideshow-layers .five .image {
+		background-image: url("../img/content/hp-slider/bg-img/online-open-day-4a-1440.jpg")
+	}
+	.slideshow-layers .six .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-1440.jpg")
+	}
+	.slideshow-layers .seven .image {
+		background-image: url("../img/content/hp-slider/bg-img/diversity-2-1440.jpg")
+	}
+	.slideshow-layers .eight .image {
+		background-image: url("../img/content/hp-slider/bg-img/not-too-late-1440.jpg")
+	}
+	.slideshow-layers .nine .image {
+		background-image: url("../img/content/hp-slider/bg-img/tef-1440.jpg")
+	}
+	.slideshow-layers .ten .image {
+		background-image: url("../img/content/hp-slider/bg-img/graduation-1440.jpg")
+	}
+	.slideshow-layers .eleven .image {
+		background-image: url("../img/content/hp-slider/bg-img/bww-1440.jpg")
+	}
+	.slideshow-layers .twelve .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-1440.jpg")
+	}
+	.slideshow-layers .thirteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/resources-hub-1440.jpg")
+	}
+	.slideshow-layers .fourteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/scholarships-1440.jpg")
+	}
+	.slideshow-layers .fifteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/visiting-days-1440.jpg")
+	}
+	.slideshow-layers .sixteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/student-experience-1440.jpg")
+	}
+	.slideshow-layers .seventeen .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-2020-1440.jpg")
+	}
+	.slideshow-layers .eighteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/pantycelyn-2-1440.jpg")
+	}
+	.slideshow-layers .nineteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/clearing-1440.jpg")
+	}
+	.slideshow-layers .twenty .image {
+	background-image: url("../img/content/hp-slider/bg-img/nss-20-1440.jpg")
+	}
+    .slideshow-layers .twentyone .image {
+	background-image: url("../img/content/hp-slider/bg-img/campus-tours-1440.jpg")
+	}
+    .slideshow-layers .twentytwo .image {
+	background-image: url("../img/content/hp-slider/bg-img/mba-1440.jpg")
+	}
+    .slideshow-layers .twentythree .image {
+	background-image: url("../img/content/hp-slider/bg-img/vet-1440.jpg")
+	}
+    .slideshow-layers .twentyfour .image {
+	background-image: url("../img/content/hp-slider/bg-img/entrance-scholarships-1440.jpg")
+	}
+    .slideshow-layers .twentyfive .image {
+	background-image: url("../img/content/hp-slider/bg-img/bsw-1440.jpg")
+	}
+    .slideshow-layers .twentysix .image {
+	background-image: url("../img/content/hp-slider/bg-img/psw-1440.jpg")
+	}
+	.slideshow-layers .twentyseven .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-2-1440.jpg")
+	}
+	.slideshow-layers .twentyeight .image {
+		background-image: url("../img/content/hp-slider/bg-img/clearing-visits-1440.jpg")
+	}
+	.slideshow-layers .twentynine .image {
+		background-image: url("../img/content/hp-slider/bg-img/accom-1440.jpg")
+	}
+	.slideshow-layers .thirtyone .image {
+		background-image: url("../img/content/hp-slider/bg-img/vet-od-1440.jpg")
+	}
+	.slideshow-layers .thirtytwo .image {
+		background-image: url("../img/content/hp-slider/bg-img/fy-1440.jpg")
+	}
+	.slideshow-layers .thirtythree .image {
+		background-image: url("../img/content/hp-slider/bg-img/welcome-1440.jpg")
+	}
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 900px),
+only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 900px),
+only screen and (-o-min-device-pixel-ratio: 2 / 1) and (min-width: 900px),
+only screen and (min-device-pixel-ratio: 2) and (min-width: 900px),
+only screen and (min-resolution: 192dpi) and (min-width: 900px),
+only screen and (min-resolution: 2dppx) and (min-width: 900px) {
+	.slideshow-layers .one .image {
+		background-image: url("../img/content/hp-slider/bg-img/open-days-3-1440%402x.jpg")
+	}
+	.slideshow-layers .two .image {
+		background-image: url("../img/content/hp-slider/bg-img/discover-1440%402x.jpg")
+	}
+	.slideshow-layers .three .image {
+		background-image: url("../img/content/hp-slider/bg-img/hesa-1440%402x.jpg")
+	}
+	.slideshow-layers .four .image {
+		background-image: url("../img/content/hp-slider/bg-img/nss-3-1440%402x.jpg")
+	}
+	.slideshow-layers .five .image {
+		background-image: url("../img/content/hp-slider/bg-img/online-open-day-4a-1440%402x.jpg")
+	}
+	.slideshow-layers .six .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-1440%402x.jpg")
+	}
+	.slideshow-layers .seven .image {
+		background-image: url("../img/content/hp-slider/bg-img/diversity-2-1440%402x.jpg")
+	}
+	.slideshow-layers .eight .image {
+		background-image: url("../img/content/hp-slider/bg-img/not-too-late-1440%402x.jpg")
+	}
+	.slideshow-layers .nine .image {
+		background-image: url("../img/content/hp-slider/bg-img/tef-1440%402x.jpg")
+	}
+	.slideshow-layers .ten .image {
+		background-image: url("../img/content/hp-slider/bg-img/graduation-1440%402x.jpg")
+	}
+	.slideshow-layers .eleven .image {
+		background-image: url("../img/content/hp-slider/bg-img/bww-1440%402x.jpg")
+	}
+	.slideshow-layers .twelve .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-1440%402x.jpg")
+	}
+	.slideshow-layers .thirteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/resources-hub-1440%402x.jpg")
+	}
+	.slideshow-layers .fourteen .image {
+		background-image: url("../img/content/hp-slider/bg-img/scholarships-1440%402x.jpg")
+	}
+	.slideshow-layers .fifteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/visiting-days-1440%402x.jpg")
+	}
+	.slideshow-layers .sixteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/student-experience-1440%402x.jpg")
+	}
+	.slideshow-layers .seventeen .image {
+		background-image: url("../img/content/hp-slider/bg-img/good-university-guide-2020-1440%402x.jpg")
+	}
+	.slideshow-layers .eighteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/pantycelyn-2-1440%402x.jpg")
+	}
+	.slideshow-layers .nineteen .image {
+	background-image: url("../img/content/hp-slider/bg-img/clearing-1440%402x.jpg")
+	}
+    .slideshow-layers .twenty .image {
+	background-image: url("../img/content/hp-slider/bg-img/nss-20-1440%402x.jpg")
+	}
+    .slideshow-layers .twentyone .image {
+	background-image: url("../img/content/hp-slider/bg-img/campus-tours-1440%402x.jpg")
+	}
+    .slideshow-layers .twentytwo .image {
+	background-image: url("../img/content/hp-slider/bg-img/mba-1440%402x.jpg")
+	}
+    .slideshow-layers .twentyfour .image {
+	background-image: url("../img/content/hp-slider/bg-img/entrance-scholarships-1440%402x.jpg")
+	}
+    .slideshow-layers .twentyfive .image {
+	background-image: url("../img/content/hp-slider/bg-img/bsw-1440%402x.jpg")
+	}
+    .slideshow-layers .twentysix .image {
+	background-image: url("../img/content/hp-slider/bg-img/psw-1440%402x.jpg")
+	}
+	.slideshow-layers .twentyseven .image {
+		background-image: url("../img/content/hp-slider/bg-img/research-2-1440%402x.jpg")
+	}
+	.slideshow-layers .twentyeight .image {
+		background-image: url("../img/content/hp-slider/bg-img/clearing-visits-1440%402x.jpg")
+	}
+	.slideshow-layers .twentynine .image {
+		background-image: url("../img/content/hp-slider/bg-img/accom-1440%402x.jpg")
+	}
+	.slideshow-layers .thirtyone .image {
+		background-image: url("../img/content/hp-slider/bg-img/vet-od-1440%402x.jpg")
+	}
+	.slideshow-layers .thirtytwo .image {
+		background-image: url("../img/content/hp-slider/bg-img/fy-1440%402x.jpg")
+	}
+	.slideshow-layers .thirtythree .image {
+		background-image: url("../img/content/hp-slider/bg-img/welcome-1440%402x.jpg")
+	}
+}
+
+/*BG images for homepage awards and rankings slider*/
+/*.hp-slider-container .content-wrapper .award.one div {
+	background: #8c8fa8 url("/img/content/hp-slider/bottom-slider/nss.png") no-repeat left top
+}
+.hp-slider-container .content-wrapper .award.two div {
+	background: #8c8fa8 url("/img/content/hp-slider/bottom-slider/nss-bg-en.png") no-repeat right bottom
+}
+.hp-slider-container .content-wrapper .award.three div {
+	background: #8c8fa8 url("/img/content/hp-slider/bottom-slider/good-en.png") no-repeat right bottom
+}
+.hp-slider-container .content-wrapper .award.four div {
+	background: #8c8fa8 url("/img/content/hp-slider/bottom-slider/complete.png") no-repeat right bottom
+}
+.hp-slider-container .content-wrapper .award.five div {
+	background: #8c8fa8 url("/img/content/hp-slider/bottom-slider/hesa-bg-en.png") no-repeat right bottom
+}
+.hp-slider-container .content-wrapper .award.six div {
+	background: #8c8fa8 url("/img/content/hp-slider/bottom-slider/ref.png") no-repeat right bottom
+}*/
+/* Background colour for homepage awards and rankings slider*/
+.hp-slider-container .content-wrapper .award div {
+    background-color: #242753;
+}
+/*Triangle*/
+/*@media only screen and (min-width: 580px){
+    .slideshow-layers .slide .triangles.bottom-left {
+        background-image: url(/img/content/hp-slider/triangles/grey-lb-triange-bg.svg);
+    }
+    .no-svg .slideshow-layers .slide .triangles.bottom-left {
+        background-image: url(/img/content/hp-slider/triangles/grey-lb-triange-bg.png);
+    }
+    @media only screen and (-moz-min-device-pixel-ratio: 1.5),
+    only screen and (-o-min-device-pixel-ratio: 3 / 2),
+    only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (min-device-pixel-ratio: 1.5) {
+        .no-svg .slideshow-layers .slide .triangles.bottom-left {
+            background-image:url(/img/content/hp-slider/triangles/grey-lb-triange-bg@2x.png)
+        }
+    }
+    .slideshow-layers .slide .triangles.bottom-right {
+        background-image: url(/img/content/hp-slider/triangles/grey-rb-triange-bg.svg);
+    }
+    .no-svg .slideshow-layers .slide .triangles.bottom-right {
+        background-image: url(/img/content/hp-slider/triangles/grey-rb-triange-bg.png);
+    }
+    @media only screen and (-moz-min-device-pixel-ratio: 1.5),
+    only screen and (-o-min-device-pixel-ratio: 3 / 2),
+    only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (min-device-pixel-ratio: 1.5) {
+        .no-svg .slideshow-layers .slide .triangles.bottom-right {
+            background-image:url(/img/content/hp-slider/triangles/grey-r-triange-bg@2x.png)
+        }
+    }
+    .slideshow-layers .slide .triangles.top-left {
+        background-image: url(/img/content/hp-slider/triangles/grey-lt-triange-bg.svg);
+    }
+    .no-svg .slideshow-layers .slide .triangles.top-left {
+        background-image: url(/img/content/hp-slider/triangles/grey-lt-triange-bg.png);
+    }
+    @media only screen and (-moz-min-device-pixel-ratio: 1.5),
+    only screen and (-o-min-device-pixel-ratio: 3 / 2),
+    only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (min-device-pixel-ratio: 1.5) {
+        .no-svg .slideshow-layers .slide .triangles.top-left {
+            background-image:url(/img/content/hp-slider/triangles/grey-lt-triange-bg@2x.png)
+        }
+    }
+    .slideshow-layers .slide .triangles.top-right {
+        background-image: url(/img/content/hp-slider/triangles/grey-rt-triange-bg.svg);
+    }
+    .no-svg .slideshow-layers .slide .triangles.top-right {
+        background-image: url(/img/content/hp-slider/triangles/grey-rt-triange-bg.png);
+    }
+    @media only screen and (-moz-min-device-pixel-ratio: 1.5),
+    only screen and (-o-min-device-pixel-ratio: 3 / 2),
+    only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (min-device-pixel-ratio: 1.5) {
+        .no-svg .slideshow-layers .slide .triangles.top-right {
+            background-image:url(/img/content/hp-slider/triangles/grey-rt-triange-bg@2x.png)
+        }
+    }
+}*/
+/*.nav-icons ul li.important a {
+    font-weight: 600;
+}
+.nav-icons ul li.important a figure {
+    background-color: #FFCC00;
+    border-color: #e6b800;
+    border-radius: 10px;
+}
+.nav-icons ul li.important a:hover figure {
+    border-color: #4e4e4e;
+}*/
+/**/
+
+.slideshow-layers .slide.thirtyone .logo div{
+	width: 25%;
+}
+
+@media only screen and (min-width: 580px) {
+    .slideshow-layers .slide.five .caption.bottom-left {
+        bottom: 32%;
+        left: 2%;
+    }
+    .slideshow-layers .slide.five.cy .caption.bottom-left {
+        bottom: 33%;
+        left: 3%;
+    }
+    .slideshow-layers .slide.twenty .caption.bottom-left,
+		.slideshow-layers .slide.twentyeight .caption.bottom-left,
+		.slideshow-layers .slide.twentynine .caption.bottom-left {
+        bottom: 30%;
+        left: 5%;
+    }
+		.slideshow-layers .slide.twentynine.cy .caption.bottom-left {
+				bottom: 35%;
+		}
+    .slideshow-layers .slide.twenty.cy .caption.bottom-left {
+        bottom: 29%;
+    }
+    .slideshow-layers .slide.twenty .caption.bottom-left small {
+        font-size: 60%;
+    }
+    .slideshow-layers .slide.two .caption.top-left small {
+        font-size: 60%;
+    }
+    .slideshow-layers .slide.twentyone .caption.bottom-left,
+		.slideshow-layers .slide.thirtyone .caption.bottom-left {
+				left: 3%;
+    }
+		.slideshow-layers .slide.thirtyone .caption.bottom-left {
+				bottom: 28%;
+		}
+		.slideshow-layers .slide.thirtytwo .caption.bottom-left {
+				bottom: 22%;
+				left: auto;
+				right: 3%;
+				width: 41%;
+		}
+		.slideshow-layers .slide.twentyone .logo div,
+		.slideshow-layers .slide.thirtyone .logo div{
+			width: 13%;
+		}
+    .slideshow-layers .slide.twentyfour .caption.bottom-left {
+        bottom: 25%;
+        left: 3%;
+    }
+    .slideshow-layers .slide.twentyfive .caption.bottom-left, .slideshow-layers .slide.twentysix .caption.bottom-left {
+        bottom: 35%;
+        left: 3%;
+    }
+    .slideshow-layers .slide.twentyfive.cy .caption.bottom-left, .slideshow-layers .slide.twentysix.cy .caption.bottom-left {
+        bottom: 35%;
+        left: 3%;
+    }
+		.slideshow-layers .slide.twentysix .logo img {
+				text-shadow: 0px 0px 3px #4e4e4e;
+		}
+}
+
+.slideshow-layers .slide .caption p span:first-child {
+    text-indent: 0;
+}
+
+.opendays-events h2 + p {
+    margin-top: -30px;
+    padding: 0px 23px 18px 0;
+    line-height: 1;
+    position: relative;
+}
+
+/*Homepage change just for clearing*/
+/*.nav-icons ul li a figure.i-clearing.cy {
+    background: #51ca2d;
+    background-image:url(/img/content/clearing-19/icons/clearing-phone-wh.svg);
+    background-image:url(/img/content/clearing-19/icons/clearing-phone-wh.svg), linear-gradient(to top, #51ca2d 0%, #75ef43 100%);
+    border: 2px solid #75ef43;
+    background-size: contain;
+}
+.nav-icons ul li a:hover figure.i-clearing.cy {
+    border-color: #4e4e4e;
+}
+.no-svg .nav-icons ul li a figure.i-clearing.cy {
+    background-image:url(/img/icons/nav/clearing-wh.png)
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5){
+    .no-svg .nav-icons ul li a figure.i-clearing.cy {
+        background-image:url(/img/icons/nav/clearing-wh@2x.png)
+    }
+}*/
+/*.nav-icons ul {
+    max-width: 1000px;
+    margin: 0 auto;
+}*/
+
+
+.opendays-events .date {
+    position: relative;
+    z-index: 1;
+}
+.opendays-events h2 small {
+	font-size: 70%;
+}
+
+@media only screen and (min-width: 580px){
+	.slideshow-layers .slide.twentyeight.yellow .caption.bottom-left {
+			bottom: 10%;
+			left: 5%;
+			z-index: 14;
+	}
+	.slideshow-layers .slide.one .image.gradient-bottom:before,
+	.slideshow-layers .slide.thirtythree .image.gradient-bottom:before {
+		opacity: .77;
+	}
+
+}
+@media only screen and (min-width: 650px){
+	.slideshow-layers .slide.twentyeight.yellow .caption.bottom-left {
+			bottom: 15%;
+			left: 5%;
+	}
+}
+@media only screen and (min-width: 1140px){
+	.slideshow-layers .slide.twentyeight.yellow .caption.bottom-left {
+			bottom: 25%;
+			left: 5%;
+	}
+}
+.yellow-ribbon {
+	display: none
+}
+@media only screen and (min-width: 500px){
+	.yellow-ribbon {
+		display: block;
+			width: 300px;
+		    height: 300px;
+		    overflow: hidden;
+		    position: absolute;
+		    top: 0px;
+		    left: 0px;
+				z-index: 12;
+	}
+	.yellow-ribbon .ribbon {
+		font-size: 25px;
+		font-weight: 700;
+		text-align: center;
+		-webkit-transform: rotate(-30deg);
+		-moz-transform: rotate(-30deg);
+		-ms-transform: rotate(-30deg);
+		-o-transform: rotate(-30deg);
+		position: relative;
+		padding: 4px 0 7px;
+		top: 30px;
+		left: -110px;
+		width: 380px;
+		background-color: #ffcc00;
+		color: #3b3b3b;
+	}
+	.yellow-ribbon.cy .ribbon {
+		font-size: 20px;
+		top: 35px;
+		left: -105px;
+	}
+}
+@media only screen and (min-width: 900px){
+	.yellow-ribbon {
+		width: 500px;
+			height: 400px;
+	}
+	.yellow-ribbon .ribbon {
+		padding: 7px 0 10px;
+		font-size: 40px;
+		width: 500px;
+		top: 55px;
+		left: -116px;
+	}
+	.yellow-ribbon.cy .ribbon {
+		font-size: 40px;
+		width: 600px;
+		top: 70px;
+		left: -125px;
+	}
+}
+
+.carousel-events-hp.no-image a > div {
+	margin-top: 0px;
+}
+.carousel-events-hp.no-image a > div p {
+	margin-bottom: 0;
+}
+@media only screen and (min-width: 1024px){
+	.carousel-events-hp.no-image h2 {
+		margin-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+/*NEW ** NEW*/
+
+.nav-icons ul li a figure.i-clearing-green {
+	background: #51ca2d;
+	background-image: url("https://www.aber.ac.uk/img/icons/nav/clearing-phone-wh-full.svg");
+	background-image: url("https://www.aber.ac.uk/img/icons/nav/clearing-phone-wh-full.svg"), linear-gradient(to top, #51ca2d 0%, #75ef43 100%);
+	background-position: center center;
+	background-size: contain;
+	border-radius: 10px;
+	border: 2px solid #75ef43;
+}
+
+
+
+
+	.no-svg .nav-icons ul li a figure.i-clearing-green{
+		background-image:url("../img/icons/nav/clearing-phone-wh-full.png")
+	}
+
+	@media only screen and (-moz-min-device-pixel-ratio: 1.5),
+	only screen and (-o-min-device-pixel-ratio: 3 / 2),
+	only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) {
+		.no-svg .nav-icons ul li a figure.i-clearing-green {
+			background-image:url("../img/icons/nav/clearing-phone-wh-full%402x.png")
+		}
+	}
+
+
+
+
+.slideshow-hero-hp .one .image {
+	background-image: url("../img/homepage/hero/clearing-sm.jpg")
+}
+.slideshow-hero-hp .two .image {
+	background-image: url("../img/homepage/hero/campus-tours-sm.jpg")
+}
+.slideshow-hero-hp .three .image {
+	background-image: url("../img/homepage/hero/research-sm.jpg")
+}
+.slideshow-hero-hp .four .image {
+	background-image: url("../img/homepage/hero/pg-community-2-sm.jpg")
+}
+.slideshow-hero-hp .five.cy .image {
+	background-image: url("../img/homepage/hero/welsh-medium-sm.jpg")
+}
+.slideshow-hero-hp .six .image {
+	background-image: url("../img/homepage/hero/welcome-2-sm.jpg")
+}
+.slideshow-hero-hp .seven .image {
+	background-image: url("../img/homepage/hero/open-day-sm.jpg")
+}
+.slideshow-hero-hp .eight .image {
+	background-image: url("../img/homepage/hero/study-at-aber-sm.jpg")
+}
+.slideshow-hero-hp .nine .image {
+	background-image: url("../img/homepage/hero/ood-2-sm.jpg")
+}
+.slideshow-hero-hp .ten .image {
+	background-image: url("../img/homepage/hero/scholarship-sm.jpg")
+}
+.slideshow-hero-hp .eleven .image {
+	background-image: url("../img/homepage/hero/pg-sm.jpg")
+}
+.slideshow-hero-hp .twelve .image {
+	background-image: url("../img/homepage/hero/pgce-sm.jpg")
+}
+.slideshow-hero-hp .therteen .image {
+	background-image: url("../img/homepage/hero/graduation-2022-sm.jpg")
+}
+.slideshow-hero-hp .fourteen .image {
+	background-image: url("../img/homepage/hero/clearing-2-sm.jpg")
+}
+.slideshow-hero-hp .fifteen .image {
+	background-image: url("../img/homepage/hero/student-satisfaction-sm.jpg")
+}
+.slideshow-hero-hp .sixteen .image {
+	background-image: url("../img/homepage/hero/accommodation-sm.jpg")
+}
+.slideshow-hero-hp .seventeen .image {
+	background-image: url("../img/homepage/hero/learn-more-about-clearing-sm.jpg")
+}
+.slideshow-hero-hp .eighteen .image {
+	background-image: url("../img/homepage/hero/150-ri-sm.jpg")
+}
+.slideshow-hero-hp .nineteen .image {
+	background-image: url("../img/homepage/hero/location-sm.jpg")
+}
+.slideshow-hero-hp .twenty .image {
+	background-image: url("../img/homepage/hero/nursing-sm.jpg")
+}
+.slideshow-hero-hp .twentyone .image {
+	background-image: url("../img/homepage/hero/call-us-sm.jpg")
+}
+.slideshow-hero-hp .twentytwo .image {
+	background-image: url("../img/homepage/hero/queen-sm.jpg")
+}
+.slideshow-hero-hp .twentythree .image {
+	background-image: url("../img/homepage/hero/150-sm.jpg")
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2 / 1),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 192dpi),
+only screen and (min-resolution: 2dppx) {
+	.slideshow-hero-hp .one .image {
+		background-image: url("../img/homepage/hero/clearing-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .two .image {
+		background-image: url("../img/homepage/hero/campus-tours-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .three .image {
+		background-image: url("../img/homepage/hero/research-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .four .image {
+		background-image: url("../img/homepage/hero/pg-community-2-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .five.cy .image {
+		background-image: url("../img/homepage/hero/welsh-medium-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .six .image {
+		background-image: url("../img/homepage/hero/welcome-2-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .seven .image {
+		background-image: url("../img/homepage/hero/open-day-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .eight .image {
+		background-image: url("../img/homepage/hero/study-at-aber-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .nine .image {
+		background-image: url("../img/homepage/hero/ood-2-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .ten .image {
+		background-image: url("../img/homepage/hero/scholarship-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .eleven .image {
+		background-image: url("../img/homepage/hero/pg-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .twelve .image {
+		background-image: url("../img/homepage/hero/pgce-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .therteen .image {
+		background-image: url("../img/homepage/hero/graduation-2022-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .fourteen .image {
+		background-image: url("../img/homepage/hero/clearing-2-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .fifteen .image {
+		background-image: url("../img/homepage/hero/student-satisfaction-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .sixteen .image {
+		background-image: url("../img/homepage/hero/accommodation-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .seventeen .image {
+		background-image: url("../img/homepage/hero/learn-more-about-clearing-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .eighteen .image {
+		background-image: url("../img/homepage/hero/150-ri-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .nineteen .image {
+		background-image: url("../img/homepage/hero/location-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .twenty .image {
+		background-image: url("../img/homepage/hero/nursing-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .twentyone .image {
+		background-image: url("../img/homepage/hero/call-us-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .twentytwo .image {
+		background-image: url("../img/homepage/hero/queen-sm%402x.jpg")
+	}
+	.slideshow-hero-hp .twentythree .image {
+		background-image: url("../img/homepage/hero/150-sm%402x.jpg")
+	}
+}
+@media only screen and (min-width: 420px) {
+	.slideshow-hero-hp .one .image {
+		background-image: url("../img/homepage/hero/clearing-md.jpg")
+	}
+	.slideshow-hero-hp .two .image {
+		background-image: url("../img/homepage/hero/campus-tours-md.jpg")
+	}
+	.slideshow-hero-hp .three .image {
+		background-image: url("../img/homepage/hero/research-md.jpg")
+	}
+	.slideshow-hero-hp .four .image {
+		background-image: url("../img/homepage/hero/pg-community-2-md.jpg")
+	}
+	.slideshow-hero-hp .five.cy .image {
+		background-image: url("../img/homepage/hero/welsh-medium-md.jpg")
+	}
+	.slideshow-hero-hp .six .image {
+		background-image: url("../img/homepage/hero/welcome-2-md.jpg")
+	}
+	.slideshow-hero-hp .seven .image {
+		background-image: url("../img/homepage/hero/open-day-md.jpg")
+	}
+	.slideshow-hero-hp .eight .image {
+		background-image: url("../img/homepage/hero/study-at-aber-md.jpg")
+	}
+	.slideshow-hero-hp .nine .image {
+		background-image: url("../img/homepage/hero/ood-2-md.jpg")
+	}
+	.slideshow-hero-hp .ten .image {
+		background-image: url("../img/homepage/hero/scholarship-md.jpg")
+	}
+	.slideshow-hero-hp .eleven .image {
+		background-image: url("../img/homepage/hero/pg-md.jpg")
+	}
+	.slideshow-hero-hp .twelve .image {
+		background-image: url("../img/homepage/hero/pgce-md.jpg")
+	}
+	.slideshow-hero-hp .therteen .image {
+		background-image: url("../img/homepage/hero/graduation-2022-md.jpg")
+	}
+	.slideshow-hero-hp .fourteen .image {
+		background-image: url("../img/homepage/hero/clearing-2-md.jpg")
+	}
+	.slideshow-hero-hp .fifteen .image {
+		background-image: url("../img/homepage/hero/student-satisfaction-md.jpg")
+	}
+	.slideshow-hero-hp .sixteen .image {
+		background-image: url("../img/homepage/hero/accommodation-md.jpg")
+	}
+	.slideshow-hero-hp .seventeen .image {
+		background-image: url("../img/homepage/hero/learn-more-about-clearing-md.jpg")
+	}
+	.slideshow-hero-hp .eighteen .image {
+		background-image: url("../img/homepage/hero/150-ri-md.jpg")
+	}
+	.slideshow-hero-hp .nineteen .image {
+		background-image: url("../img/homepage/hero/location-md.jpg")
+	}
+	.slideshow-hero-hp .twenty .image {
+		background-image: url("../img/homepage/hero/nursing-md.jpg")
+	}
+	.slideshow-hero-hp .twentyone .image {
+		background-image: url("../img/homepage/hero/call-us-md.jpg")
+	}
+	.slideshow-hero-hp .twentytwo .image {
+		background-image: url("../img/homepage/hero/queen-md.jpg")
+	}
+	.slideshow-hero-hp .twentythree .image {
+		background-image: url("../img/homepage/hero/150-md.jpg")
+	}
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 420px),
+only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 420px),
+only screen and (-o-min-device-pixel-ratio: 2 / 1) and (min-width: 420px),
+only screen and (min-device-pixel-ratio: 2) and (min-width: 420px),
+only screen and (min-resolution: 192dpi) and (min-width: 420px),
+only screen and (min-resolution: 2dppx) and (min-width: 420px) {
+	.slideshow-hero-hp .one .image {
+		background-image: url("../img/homepage/hero/clearing-md%402x.jpg")
+	}
+	.slideshow-hero-hp .two .image {
+		background-image: url("../img/homepage/hero/campus-tours-md%402x.jpg")
+	}
+	.slideshow-hero-hp .three .image {
+		background-image: url("../img/homepage/hero/research-md%402x.jpg")
+	}
+	.slideshow-hero-hp .four .image {
+		background-image: url("../img/homepage/hero/pg-community-2-md%402x.jpg")
+	}
+	.slideshow-hero-hp .five.cy .image {
+		background-image: url("../img/homepage/hero/welsh-medium-md%402x.jpg")
+	}
+	.slideshow-hero-hp .six .image {
+		background-image: url("../img/homepage/hero/welcome-2-md%402x.jpg")
+	}
+	.slideshow-hero-hp .seven .image {
+		background-image: url("../img/homepage/hero/open-day-md%402x.jpg")
+	}
+	.slideshow-hero-hp .eight .image {
+		background-image: url("../img/homepage/hero/study-at-aber-md%402x.jpg")
+	}
+	.slideshow-hero-hp .nine .image {
+		background-image: url("../img/homepage/hero/ood-2-md%402x.jpg")
+	}
+	.slideshow-hero-hp .ten .image {
+		background-image: url("../img/homepage/hero/scholarship-md%402x.jpg")
+	}
+	.slideshow-hero-hp .eleven .image {
+		background-image: url("../img/homepage/hero/pg-md%402x.jpg")
+	}
+	.slideshow-hero-hp .twelve .image {
+		background-image: url("../img/homepage/hero/pgce-md%402x.jpg")
+	}
+	.slideshow-hero-hp .therteen .image {
+		background-image: url("../img/homepage/hero/graduation-2022-md%402x.jpg")
+	}
+	.slideshow-hero-hp .fourteen .image {
+		background-image: url("../img/homepage/hero/clearing-2-md%402x.jpg")
+	}
+	.slideshow-hero-hp .fifteen .image {
+		background-image: url("../img/homepage/hero/student-satisfaction-md%402x.jpg")
+	}
+	.slideshow-hero-hp .sixteen .image {
+		background-image: url("../img/homepage/hero/accommodation-md%402x.jpg")
+	}
+	.slideshow-hero-hp .seventeen .image {
+		background-image: url("../img/homepage/hero/learn-more-about-clearing-md%402x.jpg")
+	}
+	.slideshow-hero-hp .eighteen .image {
+		background-image: url("../img/homepage/hero/150-ri-md%402x.jpg")
+	}
+	.slideshow-hero-hp .nineteen .image {
+		background-image: url("../img/homepage/hero/location-md%402x.jpg")
+	}
+	.slideshow-hero-hp .twenty .image {
+		background-image: url("../img/homepage/hero/nursing-md%402x.jpg")
+	}
+	.slideshow-hero-hp .twentyone .image {
+		background-image: url("../img/homepage/hero/call-us-md%402x.jpg")
+	}
+	.slideshow-hero-hp .twentytwo .image {
+		background-image: url("../img/homepage/hero/queen-md%402x.jpg")
+	}
+	.slideshow-hero-hp .twentythree .image {
+		background-image: url("../img/homepage/hero/150-md%402x.jpg")
+	}
+}
+@media only screen and (min-width: 768px) {
+	.slideshow-hero-hp .one .image {
+		background-image: url("../img/homepage/hero/clearing-la.jpg")
+	}
+	.slideshow-hero-hp .two .image {
+		background-image: url("../img/homepage/hero/campus-tours-la.jpg")
+	}
+	.slideshow-hero-hp .three .image {
+		background-image: url("../img/homepage/hero/research-la.jpg")
+	}
+	.slideshow-hero-hp .four .image {
+		background-image: url("../img/homepage/hero/pg-community-2-la.jpg")
+	}
+	.slideshow-hero-hp .five.cy .image {
+		background-image: url("../img/homepage/hero/welsh-medium-la.jpg")
+	}
+	.slideshow-hero-hp .six .image {
+		background-image: url("../img/homepage/hero/welcome-2-la.jpg")
+	}
+	.slideshow-hero-hp .seven .image {
+		background-image: url("../img/homepage/hero/open-day-la.jpg")
+	}
+	.slideshow-hero-hp .eight .image {
+		background-image: url("../img/homepage/hero/study-at-aber-la.jpg")
+	}
+	.slideshow-hero-hp .nine .image {
+		background-image: url("../img/homepage/hero/ood-2-la.jpg")
+	}
+	.slideshow-hero-hp .ten .image {
+		background-image: url("../img/homepage/hero/scholarship-la.jpg")
+	}
+	.slideshow-hero-hp .eleven .image {
+		background-image: url("../img/homepage/hero/pg-la.jpg")
+	}
+	.slideshow-hero-hp .twelve .image {
+		background-image: url("../img/homepage/hero/pgce-la.jpg")
+	}
+	.slideshow-hero-hp .therteen .image {
+		background-image: url("../img/homepage/hero/graduation-2022-la.jpg")
+	}
+	.slideshow-hero-hp .fourteen .image {
+		background-image: url("../img/homepage/hero/clearing-2-la.jpg")
+	}
+	.slideshow-hero-hp .fifteen .image {
+		background-image: url("../img/homepage/hero/student-satisfaction-la.jpg")
+	}
+	.slideshow-hero-hp .sixteen .image {
+		background-image: url("../img/homepage/hero/accommodation-la.jpg")
+	}
+	.slideshow-hero-hp .seventeen .image {
+		background-image: url("../img/homepage/hero/learn-more-about-clearing-la.jpg")
+	}
+	.slideshow-hero-hp .eighteen .image {
+		background-image: url("../img/homepage/hero/150-ri-la.jpg")
+	}
+	.slideshow-hero-hp .nineteen .image {
+		background-image: url("../img/homepage/hero/location-la.jpg")
+	}
+	.slideshow-hero-hp .twenty .image {
+		background-image: url("../img/homepage/hero/nursing-la.jpg")
+	}
+	.slideshow-hero-hp .twentyone .image {
+		background-image: url("../img/homepage/hero/call-us-la.jpg")
+	}
+	.slideshow-hero-hp .twentytwo .image {
+		background-image: url("../img/homepage/hero/queen-la.jpg")
+	}
+	.slideshow-hero-hp .twentythree .image {
+		background-image: url("../img/homepage/hero/150-la.jpg")
+	}
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px),
+only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 768px),
+only screen and (-o-min-device-pixel-ratio: 2 / 1) and (min-width: 768px),
+only screen and (min-device-pixel-ratio: 2) and (min-width: 768px),
+only screen and (min-resolution: 192dpi) and (min-width: 768px),
+only screen and (min-resolution: 2dppx) and (min-width: 768px) {
+	.slideshow-hero-hp .one .image {
+		background-image: url("../img/homepage/hero/clearing-la%402x.jpg")
+	}
+	.slideshow-hero-hp .two .image {
+		background-image: url("../img/homepage/hero/campus-tours-la%402x.jpg")
+	}
+	.slideshow-hero-hp .three .image {
+		background-image: url("../img/homepage/hero/research-la%402x.jpg")
+	}
+	.slideshow-hero-hp .four .image {
+		background-image: url("../img/homepage/hero/pg-community-2-la%402x.jpg")
+	}
+	.slideshow-hero-hp .five.cy .image {
+		background-image: url("../img/homepage/hero/welsh-medium-la%402x.jpg")
+	}
+	.slideshow-hero-hp .six .image {
+		background-image: url("../img/homepage/hero/welcome-2-la%402x.jpg")
+	}
+	.slideshow-hero-hp .seven .image {
+		background-image: url("../img/homepage/hero/open-day-la%402x.jpg")
+	}
+	.slideshow-hero-hp .eight .image {
+		background-image: url("../img/homepage/hero/study-at-aber-la%402x.jpg")
+	}
+	.slideshow-hero-hp .nine .image {
+		background-image: url("../img/homepage/hero/ood-2-la%402x.jpg")
+	}
+	.slideshow-hero-hp .ten .image {
+		background-image: url("../img/homepage/hero/scholarship-la%402x.jpg")
+	}
+	.slideshow-hero-hp .eleven .image {
+		background-image: url("../img/homepage/hero/pg-la%402x.jpg")
+	}
+	.slideshow-hero-hp .twelve .image {
+		background-image: url("../img/homepage/hero/pgce-la%402x.jpg")
+	}
+	.slideshow-hero-hp .therteen .image {
+		background-image: url("../img/homepage/hero/graduation-2022-la%402x.jpg")
+	}
+	.slideshow-hero-hp .fourteen .image {
+		background-image: url("../img/homepage/hero/clearing-2-la%402x.jpg")
+	}
+	.slideshow-hero-hp .fifteen .image {
+		background-image: url("../img/homepage/hero/student-satisfaction-la%402x.jpg")
+	}
+	.slideshow-hero-hp .sixteen .image {
+		background-image: url("../img/homepage/hero/accommodation-la%402x.jpg")
+	}
+	.slideshow-hero-hp .seventeen .image {
+		background-image: url("../img/homepage/hero/learn-more-about-clearing-la%402x.jpg")
+	}
+	.slideshow-hero-hp .eighteen .image {
+		background-image: url("../img/homepage/hero/150-ri-la%402x.jpg")
+	}
+	.slideshow-hero-hp .nineteen .image {
+		background-image: url("../img/homepage/hero/location-la%402x.jpg")
+	}
+	.slideshow-hero-hp .twenty .image {
+		background-image: url("../img/homepage/hero/nursing-la%402x.jpg")
+	}
+	.slideshow-hero-hp .twentyone .image {
+		background-image: url("../img/homepage/hero/call-us-la%402x.jpg")
+	}
+	.slideshow-hero-hp .twentytwo .image {
+		background-image: url("../img/homepage/hero/queen-la%402x.jpg")
+	}
+	.slideshow-hero-hp .twentythree .image {
+		background-image: url("../img/homepage/hero/150-la%402x.jpg")
+	}
+}
+@media only screen and (min-width: 1280px) {
+	.slideshow-hero-hp .one .image {
+		background-image: url("../img/homepage/hero/clearing-xl.jpg")
+	}
+	.slideshow-hero-hp .two .image {
+		background-image: url("../img/homepage/hero/campus-tours-xl.jpg")
+	}
+	.slideshow-hero-hp .three .image {
+		background-image: url("../img/homepage/hero/research-xl.jpg")
+	}
+	.slideshow-hero-hp .four .image {
+		background-image: url("../img/homepage/hero/pg-community-2-xl.jpg")
+	}
+	.slideshow-hero-hp .five.cy .image {
+		background-image: url("../img/homepage/hero/welsh-medium-xl.jpg")
+	}
+	.slideshow-hero-hp .six .image {
+		background-image: url("../img/homepage/hero/welcome-2-xl.jpg")
+	}
+	.slideshow-hero-hp .seven .image {
+		background-image: url("../img/homepage/hero/open-day-xl.jpg")
+	}
+	.slideshow-hero-hp .eight .image {
+		background-image: url("../img/homepage/hero/study-at-aber-xl.jpg")
+	}
+	.slideshow-hero-hp .nine .image {
+		background-image: url("../img/homepage/hero/ood-2-xl.jpg")
+	}
+	.slideshow-hero-hp .ten .image {
+		background-image: url("../img/homepage/hero/scholarship-xl.jpg")
+	}
+	.slideshow-hero-hp .eleven .image {
+		background-image: url("../img/homepage/hero/pg-xl.jpg")
+	}
+	.slideshow-hero-hp .twelve .image {
+		background-image: url("../img/homepage/hero/pgce-xl.jpg")
+	}
+	.slideshow-hero-hp .therteen .image {
+		background-image: url("../img/homepage/hero/graduation-2022-xl.jpg")
+	}
+	.slideshow-hero-hp .fourteen .image {
+		background-image: url("../img/homepage/hero/clearing-2-xl.jpg")
+	}
+	.slideshow-hero-hp .fifteen .image {
+		background-image: url("../img/homepage/hero/student-satisfaction-xl.jpg")
+	}
+	.slideshow-hero-hp .sixteen .image {
+		background-image: url("../img/homepage/hero/accommodation-xl.jpg")
+	}
+	.slideshow-hero-hp .seventeen .image {
+		background-image: url("../img/homepage/hero/learn-more-about-clearing-xl.jpg")
+	}
+	.slideshow-hero-hp .eighteen .image {
+		background-image: url("../img/homepage/hero/150-ri-xl.jpg")
+	}
+	.slideshow-hero-hp .nineteen .image {
+		background-image: url("../img/homepage/hero/location-xl.jpg")
+	}
+	.slideshow-hero-hp .twenty .image {
+		background-image: url("../img/homepage/hero/nursing-xl.jpg")
+	}
+	.slideshow-hero-hp .twentyone .image {
+		background-image: url("../img/homepage/hero/call-us-xl.jpg")
+	}
+	.slideshow-hero-hp .twentytwo .image {
+		background-image: url("../img/homepage/hero/queen-xl.jpg")
+	}
+	.slideshow-hero-hp .twentythree .image {
+		background-image: url("../img/homepage/hero/150-xl.jpg")
+	}
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 1280px),
+only screen and (min--moz-device-pixel-ratio: 2) and (min-width: 1280px),
+only screen and (-o-min-device-pixel-ratio: 2 / 1) and (min-width: 1280px),
+only screen and (min-device-pixel-ratio: 2) and (min-width: 1280px),
+only screen and (min-resolution: 192dpi) and (min-width: 1280px),
+only screen and (min-resolution: 2dppx) and (min-width: 1280px) {
+	.slideshow-hero-hp .one .image {
+		background-image: url("../img/homepage/hero/clearing-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .two .image {
+		background-image: url("../img/homepage/hero/campus-tours-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .three .image {
+		background-image: url("../img/homepage/hero/research-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .four .image {
+		background-image: url("../img/homepage/hero/pg-community-2-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .five.cy .image {
+		background-image: url("../img/homepage/hero/welsh-medium-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .six .image {
+		background-image: url("../img/homepage/hero/welcome-2-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .seven .image {
+		background-image: url("../img/homepage/hero/open-day-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .eight .image {
+		background-image: url("../img/homepage/hero/study-at-aber-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .nine .image {
+		background-image: url("../img/homepage/hero/ood-2-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .ten .image {
+		background-image: url("../img/homepage/hero/scholarship-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .eleven .image {
+		background-image: url("../img/homepage/hero/pg-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .twelve .image {
+		background-image: url("../img/homepage/hero/pgce-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .therteen .image {
+		background-image: url("../img/homepage/hero/graduation-2022-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .fourteen .image {
+		background-image: url("../img/homepage/hero/clearing-2-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .fifteen .image {
+		background-image: url("../img/homepage/hero/student-satisfaction-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .sixteen .image {
+		background-image: url("../img/homepage/hero/accommodation-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .seventeen .image {
+		background-image: url("../img/homepage/hero/learn-more-about-clearing-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .eighteen .image {
+		background-image: url("../img/homepage/hero/150-ri-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .nineteen .image {
+		background-image: url("../img/homepage/hero/location-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .twenty .image {
+		background-image: url("../img/homepage/hero/nursing-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .twentyone .image {
+		background-image: url("../img/homepage/hero/call-us-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .twentytwo .image {
+		background-image: url("../img/homepage/hero/queen-xl%402x.jpg")
+	}
+	.slideshow-hero-hp .twentythree .image {
+		background-image: url("../img/homepage/hero/150-xl%402x.jpg")
+	}
+}
+
+.slideshow-hero-hp small {
+ font-size: 75%;
+}
+.slideshow-hero-hp .slick-slide .twentytwo .caption p {
+	  line-height: 1;
+}
+
+.slideshow-hero-hp .slick-slide .twentytwo .caption {
+	background-color: #3b3b3b;
+}
